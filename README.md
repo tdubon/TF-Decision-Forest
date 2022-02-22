@@ -6,7 +6,7 @@ Build a decision forests model by specifying the input feature usage.
 Implement a custom Binary Target encoder as a Keras Preprocessing layer to encode the categorical features with respect to their target value co-occurrences, and then use the encoded features to build a decision forests model.
 The model is implemented using Tensorflow 7.0 or higher. The US Census Income Dataset containing approximately 300k instances with 41 numerical and categorical variables was used to train it. This is a binary classification problem to determine whether a person makes over 50k a year.
 
-Author: Khalid Salama
+Author: Khalid Salama <br> 
 Adapted implementation: Tannia Dubon
 
 
