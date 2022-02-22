@@ -14,3 +14,5 @@ Adapted implementation: Tannia Dubon
 These files were used to create a model card and a space in HuggingFace. 
 
 Source: https://keras.io/examples/structured_data/classification_with_tfdf/
+Space on Hugging Face: https://huggingface.co/spaces/keras-io/TF-GB-Forest
+Model on Hugging Face: https://huggingface.co/keras-io/TF_Decision_Trees
